@@ -51,7 +51,7 @@
 
 ### 相关性矩阵
 
-下表展示了三个因子之间的相关性：
+下表和图展示了三个因子之间的相关性：
 
 <table class="feishu-table">
 <tr class="width-enforcer">
@@ -117,6 +117,8 @@
 </td>
 </tr>
 </table>
+
+! [text] (/results/correlation_matrix.png)
 
 所有因子之间的最大相关性为0.23，满足相关性不超过0.5的要求。
 
