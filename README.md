@@ -53,7 +53,7 @@
 
 下表和图展示了三个因子之间的相关性：
 
-<table class="feishu-table">
+<table>
 <tr class="width-enforcer">
 <td style="width:25.00%;"></td>
 <td style="width:25.00%;"></td>
@@ -124,7 +124,7 @@
 
 ### 因子表现摘要
 
-<table class="feishu-table">
+<table>
 <tr class="width-enforcer">
 <td style="width:25.00%;"></td>
 <td style="width:25.00%;"></td>
