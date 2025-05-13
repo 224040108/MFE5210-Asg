@@ -14,25 +14,25 @@
 ## Alpha因子
 
 1. 价格反转因子 (Price Reversal)
-  - 类型: 中频、横截面、多空
-  - 数据: 价格数据
-  - 原理: 基于短期价格反转现象，当股票短期内大幅上涨/下跌后，可能会出现反向调整
-  - 参考文献: Jegadeesh, N., & Titman, S. (1993). Returns to buying winners and selling losers: Implications for stock market efficiency. The Journal of Finance, 48(1), 65-91.
-  - 计算方法: 过去5天收益率的负值
+  - **类型**: 中频、横截面、多空
+  - **数据**: 价格数据
+  - **原理**: 基于短期价格反转现象，当股票短期内大幅上涨/下跌后，可能会出现反向调整
+  - **参考文献**: Jegadeesh, N., & Titman, S. (1993). Returns to buying winners and selling losers: Implications for stock market efficiency. The Journal of Finance, 48(1), 65-91.
+  - **计算方法**: 过去5天收益率的负值
 
 2. 成交量价格比率因子 (Volume-Price Ratio)
-  - 类型: 中频、横截面、多空
-  - 数据: 价格和成交量数据
-  - 原理: 计算成交量相对于价格变化的比率，识别价格变动是否有足够的成交量支撑
-  - 参考文献: Blume, L., Easley, D., & O'Hara, M. (1994). Market statistics and technical analysis: The role of volume. The Journal of Finance, 49(1), 153-181.
-  - 计算方法: 成交量变化率除以价格变化率的10天移动平均
+  - **类型**: 中频、横截面、多空
+  - **数据**: 价格和成交量数据
+  - **原理**: 计算成交量相对于价格变化的比率，识别价格变动是否有足够的成交量支撑
+  - **参考文献**: Blume, L., Easley, D., & O'Hara, M. (1994). Market statistics and technical analysis: The role of volume. The Journal of Finance, 49(1), 153-181.
+  - **计算方法**: 成交量变化率除以价格变化率的10天移动平均
 
 3. 波动率突破因子 (Volatility Breakout)
-  - 类型: 高频、时间序列、多空
-  - 数据: 高低开收价格数据
-  - 原理: 基于价格突破历史波动区间的信号，捕捉价格突破后的动量
-  - 参考文献: Bollinger, J. (2002). Bollinger on Bollinger Bands. McGraw-Hill.
-  - 计算方法: 价格突破上轨(+2σ)为1，突破下轨(-2σ)为-1，否则为0，σ为20天收盘价的标准差
+  - **类型**: 高频、时间序列、多空
+  - **数据**: 高低开收价格数据
+  - **原理**: 基于价格突破历史波动区间的信号，捕捉价格突破后的动量
+  - **参考文献**: Bollinger, J. (2002). Bollinger on Bollinger Bands. McGraw-Hill.
+  - **计算方法**: 价格突破上轨(+2σ)为1，突破下轨(-2σ)为-1，否则为0，σ为20天收盘价的标准差
 
 ## 回测结果分析
 
