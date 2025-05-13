@@ -118,7 +118,7 @@
 </tr>
 </table>
 
-! [text] (https://github.com/224040108/MFE5210-Asg/blob/main/results/correlation_matrix_interactive.png)
+![text](https://github.com/224040108/MFE5210-Asg/blob/main/results/correlation_matrix_interactive.png)
 
 所有因子之间的最大相关性为0.23，满足相关性不超过0.5的要求。
 
