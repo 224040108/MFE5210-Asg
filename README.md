@@ -53,56 +53,6 @@
 
 下表展示了三个因子之间的相关性：
 
-<style>
-table.feishu-table td:nth-child(1), table.feishu-table th:nth-child(1) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(2), table.feishu-table th:nth-child(2) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(3), table.feishu-table th:nth-child(3) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(4), table.feishu-table th:nth-child(4) {
-    width: 25.00%;
-}
-table.feishu-table tr.width-enforcer {
-    height: 0 !important;
-    line-height: 0 !important;
-    padding: 0 !important;
-    visibility: hidden !important;
-    border: none !important;
-}
-table.feishu-table tr.width-enforcer td {
-    height: 0 !important;
-    padding: 0 !important;
-    border: none !important;
-}
-table.feishu-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 16px;
-    table-layout: fixed;
-}
-table.feishu-table, table.feishu-table th, table.feishu-table td {
-    border: 1px solid #ddd;
-}
-table.feishu-table th, table.feishu-table td {
-    padding: 8px;
-    text-align: left;
-    vertical-align: top;
-    word-wrap: break-word;
-}
-table.feishu-table th {
-    font-weight: bold;
-}
-table.feishu-table img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-</style>
 <table class="feishu-table">
 <tr class="width-enforcer">
 <td style="width:25.00%;"></td>
@@ -172,56 +122,6 @@ table.feishu-table img {
 
 ### 因子表现摘要
 
-<style>
-table.feishu-table td:nth-child(1), table.feishu-table th:nth-child(1) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(2), table.feishu-table th:nth-child(2) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(3), table.feishu-table th:nth-child(3) {
-    width: 25.00%;
-}
-table.feishu-table td:nth-child(4), table.feishu-table th:nth-child(4) {
-    width: 25.00%;
-}
-table.feishu-table tr.width-enforcer {
-    height: 0 !important;
-    line-height: 0 !important;
-    padding: 0 !important;
-    visibility: hidden !important;
-    border: none !important;
-}
-table.feishu-table tr.width-enforcer td {
-    height: 0 !important;
-    padding: 0 !important;
-    border: none !important;
-}
-table.feishu-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 16px;
-    table-layout: fixed;
-}
-table.feishu-table, table.feishu-table th, table.feishu-table td {
-    border: 1px solid #ddd;
-}
-table.feishu-table th, table.feishu-table td {
-    padding: 8px;
-    text-align: left;
-    vertical-align: top;
-    word-wrap: break-word;
-}
-table.feishu-table th {
-    font-weight: bold;
-}
-table.feishu-table img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-</style>
 <table class="feishu-table">
 <tr class="width-enforcer">
 <td style="width:25.00%;"></td>
